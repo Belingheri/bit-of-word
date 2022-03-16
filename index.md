@@ -4,7 +4,7 @@
 If you like it you welcome otherwise create your own stuff container 
 
 ### 3 way serial thought
-The concept of parallel three-way thinking arises from personally lived experiences.
+The concept of serial three-way thinking arises from personally lived experiences.
 
 It is present where a decision has to be made and is as for the name divided into 3 parts.
 
