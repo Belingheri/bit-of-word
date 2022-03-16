@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Welcome to my stuff container
+## A series of bizarre Sunday afternoon theories.
 
-You can use the [editor on GitHub](https://github.com/Belingheri/bit-of-word/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+If you like it you welcome otherwise create your own stuff container 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 3 way serial thought
+The concept of parallel three-way thinking arises from personally lived experiences.
 
-### Markdown
+It is present where a decision has to be made and is as for the name divided into 3 parts.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+When a technical question is asked there are always 3 answers in yuor mind:
 
-```markdown
-Syntax highlighted code block
+1. The instinctive response, more immediate and direct
+2. The slightly more reasoned answer arises from the fear of the extreme of the first answer, which goes in opposition to the first
+3. And the most correct answer born from a prolonged reasoning, which will be similar to our first answer
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Belingheri/bit-of-word/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+All this just to say that the brain (unconscious) is extremely faster than our conscious thought, wanting to exaggerate you can say that our conscious incredibly slows down our processing of information and thoughts.
